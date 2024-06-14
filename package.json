@@ -1,0 +1,24 @@
+{
+  "name": "tailwind24",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tailwindcss -i ./input.css -o ./css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Igogoblin/tailwind24.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Igogoblin/tailwind24/issues"
+  },
+  "homepage": "https://github.com/Igogoblin/tailwind24#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
